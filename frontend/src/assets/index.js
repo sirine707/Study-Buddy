@@ -1,0 +1,13 @@
+export { default as assistantAvatar } from "./assistant-avatar.svg";
+export { default as copyText } from "./copy-text.svg";
+export { default as cross } from "./cross.svg";
+export { default as file } from "./file.svg";
+export { default as inputArrow } from "./input-arrow.svg";
+export { default as leftFlashcardArrow } from "./left-flashcard-arrow.svg";
+export { default as mobileAssistantAvatar } from "./mobile-assistant-avatar.svg";
+export { default as rightFlashcardArrow } from "./right-flashcard-arrow.svg";
+export { default as startOver } from "./start-over.svg";
+export { default as uploadFile } from "./upload-file.svg";
+export { default as upload } from "./upload.svg";
+export { default as userAvatar } from "./user-avatar.svg";
+export { default as wavingHand } from "./waving-hand.svg";
