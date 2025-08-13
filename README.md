@@ -40,7 +40,7 @@ Ensuite - Study Buddy is a full-stack web application designed to enhance collab
 - **Email Notification Triggers**
 - **Admin Endpoints for Managing Users and Sessions**
 
----
+
 
 ## Prerequisites
 
@@ -58,7 +58,7 @@ Ensuite - Study Buddy is a full-stack web application designed to enhance collab
   - [Download Node.js](https://nodejs.org/en/download)
   - Or use [nvm](https://github.com/nvm-sh/nvm) to manage Node.js versions
 
----
+
 
 ## Getting Started
 
